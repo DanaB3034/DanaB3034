@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Dana
--I’m currently learning how to program in C++. If you have any tips or tricks let me know!
--You can reach me @ Danab.3034@gmail.com
+- Currently working on a web page
