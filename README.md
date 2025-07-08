@@ -98,5 +98,5 @@ A self-designed wearable device built from PCB to UI, featuring:
 
 
 ## Contact
-- Email: [YDanaB.3034@gmail.com]   
+- Email: [DanaB.3034@gmail.com]   
 - LinkedIn: [www.linkedin.com/in/dana-billman-2441bb246]  
