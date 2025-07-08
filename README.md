@@ -29,7 +29,6 @@ I’m currently seeking a co-op or full-time opportunity to apply and expand my 
 - Gained insight into distribution operations from warehouse to management  
 - Assisted contractors in locating HVAC parts and systems
 
----
 
 ## Projects
 
@@ -51,7 +50,6 @@ A self-designed wearable device built from PCB to UI, featuring:
 - Self-directed design and implementation
 
 
-
 ## Research
 
 ### EIT (Electrical Impedance Tomography) Resolution Improvement *(May 2025 – Present)*  
@@ -63,14 +61,12 @@ A self-designed wearable device built from PCB to UI, featuring:
 - Operated EEG equipment and analyzed neurodata
 
 
-
 ## Technical Skills
 
 - **Hardware/PCB**: Altium Designer, LTSpice, Autodesk CAD  
 - **Programming**: Verilog, Assembly, C++, Python, HTML/CSS, Java  
 - **Game Engines**: Unity, Godot, Unreal Engine, Android Studio  
 - **Tools**: MATLAB, Visual Studio Code, Jira, Confluence, DaVinci Resolve  
-
 
 
 ## College Activities
